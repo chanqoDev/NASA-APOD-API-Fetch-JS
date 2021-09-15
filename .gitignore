@@ -1,0 +1,11 @@
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore 
+.config.js
+
+# Ignore all text files
+*.txt
+
+ 
